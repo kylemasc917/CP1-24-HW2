@@ -3,18 +3,27 @@
 
 1. Trace of an array
    
-   -**dnxjay**
-3. Return a diagonal
+   - **dnxjay**
+2. Return a diagonal
    
-   -**avgagliardo**
-5. Array axis summations
+   - **avgagliardo**
+3. Array axis summations
+
+   - 
+4. Transpositions and permutations
 
    -
-7. Transpositions and permutations
+5. Matrix multiplication and dot product
 
-   -
-9. Matrix multiplication and dot product
-10. Vector inner and outer products
-11. Broadcasting, element-wise and scalar multiplication
-12. Tensor contractions
-13. Chained array operations, in efficient calculation order
+   - **ojha-aditya**
+   - **iglesias-cardinale**
+6. Vector inner and outer products
+
+    - **abruns123**
+7. Broadcasting, element-wise and scalar multiplication
+
+    - **HeshamElsaman**
+8. Tensor contractions
+    
+    - **Cosmos491**
+9. Chained array operations, in efficient calculation order
